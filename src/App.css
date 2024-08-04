@@ -1,0 +1,39 @@
+.Id {
+  margin: 10px;
+  padding: 2px;
+  border-radius: 5px;
+}
+.Password {
+  border-radius: 5px;
+  padding: 2px;
+}
+.but {
+  border-radius: 2px;
+  font-size: 15px;
+  margin: 10px;
+  padding: 2px;
+  background-color: rgb(173, 224, 226);
+}
+.Frg {
+  text-decoration: none;
+}
+.Contener {
+  width: 300px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(189, 202, 219);
+}
+.but2 {
+  border-radius: 2px;
+  margin: 10px;
+  padding: 2px;
+  background-color: rgb(173, 224, 226);
+}
+.fog2 {
+  border-radius: 5px;
+  padding: 2px;
+  margin-left: 15px;
+}
